@@ -3,7 +3,7 @@
 SharpWatchdogs is a program designed to watch other processes. The idea behind this code is to provide persistence in compromised hosts for Red Blue competitions.
 
 ## DISCLAIMERS
-The information contained in this blog post is for educational purposes ONLY! The author and RITSEC DO NOT hold any responsibility for any misuse or damage of the information provided in blog posts, discussions, activities, or exercises. 
+The information contained in this blog post is for educational purposes ONLY! The author and RITSEC Red Team DO NOT hold any responsibility for any misuse or damage of the information provided in blog posts, discussions, activities, or exercises. 
 
 ## About
 SharpWatchdogs is written in C#. It's meant to add another layer of persistence where the host is fully compromised and has already intense persistent. It's designed to work with other techniques like Rootkits, not only by itself. 
